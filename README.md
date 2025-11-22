@@ -16,7 +16,7 @@ Dieses Projekt ist mein persönliches **Manifest gegen Bloatware** und **für ec
 
 Ich sitze auf einem **Thinkpad X270** mit **8 GB RAM** und einem **Intel Core i5**. Kein Gaming-Rig, kein High-End-Setup. Das ist meine Realität, und ich liebe diese Hardware. Warum? Sie ist zuverlässig, minimal, und tut das, was sie soll. Ein neues Motherboard kostet 60€ und ich bin gezwungen das maximale aus meinem System rauszuholen. Das ist meine Philosophie. 
 
-Ich habe mich von Anfang an GEGEN Android Studio entschieden: Android Studio fühlt hört sich so an, wie ein riesen großer Haufen Bloatware - ohne Kontrolle. Außerdem kommen für mich nur zwei IDE's in frage: VsCodium mit Vim Motions und langfristig Neovim, weil ich meine LSPs gerne selber konfigurieren will. ALLES will ich selber machen... Ich bin einfach so eingestellt... Ich mag es nicht wenn an mir Magic API's aufschwätzen will.  
+Ich habe mich von Anfang an GEGEN Android Studio entschieden: Android Studio hört sich so an, wie ein riesen großer Haufen Bloatware - ohne Kontrolle. Außerdem kommen für mich nur zwei IDE's in frage: VsCodium mit Vim Motions und langfristig Neovim, weil ich meine LSPs gerne selber konfigurieren will. ALLES will ich selber machen... Ich bin einfach so eingestellt... Ich mag es nicht wenn an mir Magic API's aufschwätzen will.  
 
 Aber das ist noch nicht das Problem.
 
