@@ -46,22 +46,20 @@ Alles andere ist Noise.
 
 Ich wollte Android entwickeln können, **ohne** mich an die Behinderungen und das Theater von Android Studio anzupassen.
 
-### Was mir wichtig ist:
+Was mir wichtig ist
+- **Volle Kontrolle** – Ich verstehe jeden Schritt des Build-Prozesses
+- **Transparenz** – Keine Magie, keine versteckten Operationen
+- **Effizienz** – Mein Setup frisst keine Ressourcen
+- **Flexibilität** – Ich nutze die Tools, die mir gefallen (mein Editor, meine Shell)
+- **Verständnis** – Ich lerne nicht "wie man einen Button drückt", sondern **wie Android wirklich funktioniert**
+- **Reproduzierbarkeit** – Alles läuft gleich auf jedem Computer (Linux)
 
-✅ **Volle Kontrolle** – Ich verstehe jeden Schritt des Build-Prozesses
-✅ **Transparenz** – Keine Magie, keine versteckten Operationen
-✅ **Effizienz** – Mein Setup frisst keine Ressourcen
-✅ **Flexibilität** – Ich nutze die Tools, die mir gefallen (mein Editor, meine Shell)
-✅ **Verständnis** – Ich lerne nicht "wie man einen Button drückt", sondern **wie Android wirklich funktioniert**
-✅ **Reproduzierbarkeit** – Alles läuft gleich auf jedem Computer (Linux)
-
-### Was mir egal ist:
-
-❌ Bunte GUI-Fenster
-❌ Unzählige Menü-Items
-❌ IDE-spezifische Lock-ins
-❌ 4 GB RAM für syntaktisches Highlighting
-❌ "One-Click Magic Buttons"
+Was mir egal ist:
+- Bunte GUI-Fenster
+- Unzählige Menü-Items
+- IDE-spezifische Lock-ins
+- 4 GB RAM für syntaktisches Highlighting
+- "One-Click Magic Buttons"
 
 ---
 
