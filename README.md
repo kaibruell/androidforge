@@ -117,15 +117,15 @@ adb logcat MyApp.Main:I *:S
 
 **Für wen ist das gedacht?**
 
-✅ Entwickler, die **verstehen** wollen, nicht nur Buttons drücken
-✅ CLI-Fans und Minimalisten
-✅ Nur Linux-User
-✅ Menschen, die auf älterer Hardware arbeiten
-✅ Anfänger, die wirklich lernen wollen
+- Entwickler, die **verstehen** wollen, nicht nur Buttons drücken
+- CLI-Fans und Minimalisten
+- Nur Linux-User
+- Menschen, die auf älterer Hardware arbeiten
+- Anfänger, die wirklich lernen wollen
 
 
 **Nicht für:**
-❌ Windows / MacOS User
+- Windows / MacOS User
 
 ---
 
