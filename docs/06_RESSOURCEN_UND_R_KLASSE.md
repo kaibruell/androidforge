@@ -1,6 +1,4 @@
 
-Absolut. Hier ist das nächste Kapitel, das die fundamentale Trennung von **Logik (Java)** und **Darstellung (Ressourcen)** in Android erklärt.
-
 -----
 
 # 06\_RESSOURCEN\_UND\_R\_KLASSE.md: UI, Strings und die Magie der `R.java`

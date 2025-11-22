@@ -1,6 +1,3 @@
-Das ist der Kern des "Black Box"-Problems von Android Studio. Wenn man die Gradle-Dateien versteht, hat man die volle Kontrolle über den Bauprozess.
-
-Hier ist das Kapitel **07\_BUILD\_GRADLE\_DEEP\_DIVE.md**.
 
 -----
 
