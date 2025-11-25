@@ -96,7 +96,7 @@ Ich dokumentiere:
 # 1. Projekt initialisieren (mit meinem Script)
 ./init-android-sdk-project-structure.sh MyApp com.example.myapp
 
-# 2. Code schreiben (in Neovim oder deinem Editor)
+# 2. Code schreiben
 nvim app/src/main/java/com/example/myapp/MainActivity.java
 
 # 3. Bauen
@@ -147,11 +147,10 @@ Ich selbst entwickle dieses Setup / Workflow auf meinem Thinkpad. Es ist erstmal
 
 Ich bin kein Fan von:
 - Black Boxes
-- "Trust me, I know what I'm doing" APIs
 - Unnötiger Abstraktion
 - Ressourcen-Verschwendung
 
-Ich bin ein Fan von:
+Ich bin eher Fan von:
 - Transparenz
 - Minimalen Abhängigkeiten
 - Selbstbestimmung
@@ -161,7 +160,7 @@ Ich bin ein Fan von:
 ## Wie du das Projekt nutzen kannst
 
 1. **Schau dir die Docs an** – Beginne mit `01_JDK.md`
-2. **Folge dem Setup-Script** – `init-android-sdk-project-structure.sh`
+2. **Lese das Setup-Script** – `init-android-sdk-project-structure.sh`
 3. **Experimentiere** – Baue deine erste App
 4. **Erweitere** – Passe es an wie du es brauchst 
 5. **Nutze es als Referenz** – Wenn du etwas vergisst
@@ -172,7 +171,7 @@ Viel Spaß!
 
 ## Kontakt & Feedback
 
-Dieses Projekt ist persönlich. Es ist mein Weg zu arbeiten. Es darf mehr daraus werden.
+Dieses Projekt ist persönlich. Es ist mein Weg zu arbeiten. Es kann mehr daraus entstehen.
 
 ---
 
